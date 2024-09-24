@@ -5,7 +5,7 @@
 디저트를 사랑하는 사람들을 위한 완벽한 앱, SeMoDi! 다양한 디저트 후기를 작성하고 다른 사용자들과 소통하며 새로운 디저트를 발견해보세요! 
 SeMoDi는 디저트를 좋아하는 모든 사람에게 꼭 필요한 앱입니다.
 
-AppStore : https://apps.apple.com/app/semodi/id6686387940
+AppStore : https://apps.apple.com/kr/app/semodi/id6686387940
 
 **주요 기능:**
 
