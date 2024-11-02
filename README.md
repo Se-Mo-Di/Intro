@@ -6,6 +6,7 @@
 SeMoDi는 디저트를 좋아하는 모든 사람에게 꼭 필요한 앱입니다.
 
 Google Play Store : https://play.google.com/store/apps/details?id=com.gungssam.SeMoDi
+
 AppStore : https://apps.apple.com/kr/app/semodi/id6686387940
 
 **주요 기능:**
